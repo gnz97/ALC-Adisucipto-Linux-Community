@@ -2,7 +2,7 @@
 
 ## **Ruang Lingkup Teknologi**
 
-   1. Sejarah Perkembangan Teknologi https://en.wikipedia.org/wiki/History_of_technology
+   1. Sejarah Perkembangan Teknologi
    2. Sejarah Teknologi Informasi
 
 
@@ -40,4 +40,5 @@
 2. Windowing System
 3. Display Manager
 4. Window Manager
-5. 
+5. Perintah Dasar Linux
+6. Shell Linux
