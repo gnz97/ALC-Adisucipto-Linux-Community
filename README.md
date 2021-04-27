@@ -1,1 +1,1 @@
-# SLC
+# ALC (Adisucipto Linux Community)
